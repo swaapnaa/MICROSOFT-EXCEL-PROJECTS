@@ -1,4 +1,5 @@
-# Excel Projects 
+# Excel Projects ![icons8-excel-48](https://github.com/swaapnaa/MICROSOFT-EXCEL-PROJECTS/assets/149737403/ab2f8cc1-5f82-4599-9e8c-04232e2f31d1)
+
 
 
 This repository contains sample Excel projects, templates, and examples of Excel dashboards, models, and analyses I've created.
