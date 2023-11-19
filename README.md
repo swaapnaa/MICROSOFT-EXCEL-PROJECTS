@@ -1,32 +1,33 @@
-PROJECT 1 - EDUCATIONAL ATTACKS IN 2023
+# Excel Projects 
 
-Background
+This repository contains sample Excel projects, templates, and examples of Excel dashboards, models, and analyses I've created.
 
-Education is under threat globally from a variety of attacks. These attacks disrupt learning, create unsafe environments, and deny opportunities to gain knowledge. It is important to understand the scope, targets, and methods of these attacks.
+## Contents
 
-Contents
+- [Educational Attacks in 2023 Dashboard](Educational Attacks in 2023.xlsx) - Education under threat globally, with over 500 attacks on schools and universities through September 2023. University students facing greater risks, as future elite cohorts targeted. Bomb threats and armed assaults most prevalent attack types, suggesting high threat levels to education worldwide.
+- ![Screenshot 2023-11-19 at 4 43 44 AM](https://github.com/swaapnaa/MICROSOFT-EXCEL-PROJECTS/assets/149737403/225c5adb-edb0-447f-813f-2ab2b07f260e)
 
-This repository contains:
-A PDF report detailing major attacks on students and schools in 2023 through September
-A CSV file with supplementary data on locations, dates, methods, and groups responsible
-
-Usage
-
-The PDF report provides a narrative summary of trends and major incidents. The CSV contains quantitative data for further analysis.
-These resources give insight into the following:
-Where attacks are occurring
-How methods vary by region
-Which groups are behind the attacks
-Changes in frequency over time
-
-PROJECT 2 - Telecom Customer Churn Analysis
-
-Background
-
-Customer retention is crucial for telecoms. This analysis looks at churn risk factors in the customer base of a sample company.
-
-Usage
-
-These visualizations can help identify customer segments at higher risk of churn. This enables developing targeted retention initiatives.
+- [Telecom Customer Churn Analysis Dashboard](Telecom Customer Churn Analysis.xlsx) - Identified customer segments at high risk of churn using demographic, usage, and location data. Visualized churn metrics across regions and tenure cohorts to highlight trends. Key factors correlated with churn include low usage, limited tenure, and specific demographics.
+- ![Screenshot 2023-11-19 at 4 46 27 AM](https://github.com/swaapnaa/MICROSOFT-EXCEL-PROJECTS/assets/149737403/dc521ca6-9aa4-4314-92d7-345c93ecc31e)
 
 
+## About Excel 
+
+Microsoft Excel is a powerful spreadsheet application and is an important business analytics and visualization tool. Some key features:
+
+- Formulas and functions for calculations 
+- PivotTables and PivotCharts for data analysis
+- Data modeling and business intelligence  
+- Visualizations and charts
+- Macro programming with VBA
+- Connectivity to external data sources
+
+## How to Use
+
+1. Download and install Microsoft Excel or Office 
+2. Download any Excel file from this repository
+3. Open the file in Excel
+4. Enable macros if prompted
+5. Review and interact with the Excel project
+
+Let me know if you have any questions!
