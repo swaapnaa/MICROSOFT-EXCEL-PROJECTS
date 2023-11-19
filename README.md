@@ -1,4 +1,5 @@
-# ![microsoft-excel-training-computer-software-microsoft-office-excel-thumbnail](https://github.com/swaapnaa/MICROSOFT-EXCEL-PROJECTS/assets/149737403/0858a098-b369-4f18-92f8-0b4e4eb81365)
+# ![Screenshot 2023-11-19 at 5 35 18 PM](https://github.com/swaapnaa/MICROSOFT-EXCEL-PROJECTS/assets/149737403/4c237174-4b36-4e1a-b96a-2d98135d7943)
+
 
 
 This repository contains sample Excel projects, templates, and examples of Excel dashboards, models, and analyses I've created.
