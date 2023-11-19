@@ -29,5 +29,3 @@ Microsoft Excel is a powerful spreadsheet application and is an important busine
 3. Open the file in Excel
 4. Enable macros if prompted
 5. Review and interact with the Excel project
-
-Let me know if you have any questions!
